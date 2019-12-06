@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tindoann/React-Portfolio/static/css/main.e8c24495.chunk.css",
-    "main.js": "/tindoann/React-Portfolio/static/js/main.db739891.chunk.js",
-    "main.js.map": "/tindoann/React-Portfolio/static/js/main.db739891.chunk.js.map",
-    "runtime-main.js": "/tindoann/React-Portfolio/static/js/runtime-main.4b417012.js",
-    "runtime-main.js.map": "/tindoann/React-Portfolio/static/js/runtime-main.4b417012.js.map",
-    "static/js/2.26fa9988.chunk.js": "/tindoann/React-Portfolio/static/js/2.26fa9988.chunk.js",
-    "static/js/2.26fa9988.chunk.js.map": "/tindoann/React-Portfolio/static/js/2.26fa9988.chunk.js.map",
-    "index.html": "/tindoann/React-Portfolio/index.html",
-    "precache-manifest.8382d19dd4a319441f3cc0ce3bac297f.js": "/tindoann/React-Portfolio/precache-manifest.8382d19dd4a319441f3cc0ce3bac297f.js",
-    "service-worker.js": "/tindoann/React-Portfolio/service-worker.js",
-    "static/css/main.e8c24495.chunk.css.map": "/tindoann/React-Portfolio/static/css/main.e8c24495.chunk.css.map",
-    "static/js/2.26fa9988.chunk.js.LICENSE": "/tindoann/React-Portfolio/static/js/2.26fa9988.chunk.js.LICENSE"
+    "main.css": "/tindoann/React_Portfolio/static/css/main.e8c24495.chunk.css",
+    "main.js": "/tindoann/React_Portfolio/static/js/main.c7d92931.chunk.js",
+    "main.js.map": "/tindoann/React_Portfolio/static/js/main.c7d92931.chunk.js.map",
+    "runtime-main.js": "/tindoann/React_Portfolio/static/js/runtime-main.b043cd30.js",
+    "runtime-main.js.map": "/tindoann/React_Portfolio/static/js/runtime-main.b043cd30.js.map",
+    "static/js/2.26fa9988.chunk.js": "/tindoann/React_Portfolio/static/js/2.26fa9988.chunk.js",
+    "static/js/2.26fa9988.chunk.js.map": "/tindoann/React_Portfolio/static/js/2.26fa9988.chunk.js.map",
+    "index.html": "/tindoann/React_Portfolio/index.html",
+    "precache-manifest.fdc96fbe30b3e75a884b25f0b13631ab.js": "/tindoann/React_Portfolio/precache-manifest.fdc96fbe30b3e75a884b25f0b13631ab.js",
+    "service-worker.js": "/tindoann/React_Portfolio/service-worker.js",
+    "static/css/main.e8c24495.chunk.css.map": "/tindoann/React_Portfolio/static/css/main.e8c24495.chunk.css.map",
+    "static/js/2.26fa9988.chunk.js.LICENSE": "/tindoann/React_Portfolio/static/js/2.26fa9988.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b417012.js",
+    "static/js/runtime-main.b043cd30.js",
     "static/js/2.26fa9988.chunk.js",
     "static/css/main.e8c24495.chunk.css",
-    "static/js/main.db739891.chunk.js"
+    "static/js/main.c7d92931.chunk.js"
   ]
 }
