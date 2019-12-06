@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/tindoann/React_Portfolio",
+  "homepage": "https://tin.doann.github.io/React_Portfolio",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node": "^13.3.0",
